@@ -8,5 +8,5 @@ angular
 
 })
 .run(function($rootScope){
-  $rootScope.bieber = 'bbbbbbeeeeeeiiiibeerrr'
+  $rootScope.bieber = 'hello'
 })
